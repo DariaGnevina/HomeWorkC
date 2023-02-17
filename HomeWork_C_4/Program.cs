@@ -53,7 +53,7 @@ int GetSumm(int number)
 }
 
 int summ = GetSumm(number);
-Console.WriteLine($"Сумма цифр в числе {number} равна {summ}"); */
+Console.WriteLine($"Сумма цифр в числе {number} равна {summ}"); 
 
 
 
